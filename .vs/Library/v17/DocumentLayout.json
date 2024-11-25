@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hsyna\\Desktop\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|c:\\users\\hsyna\\desktop\\library\\libraryapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|c:\\users\\hsyna\\desktop\\library\\libraryapp\\interfaces\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\interfaces\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|c:\\users\\hsyna\\desktop\\library\\libraryapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|c:\\users\\hsyna\\desktop\\library\\libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|c:\\users\\hsyna\\desktop\\library\\libraryapp\\models\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|c:\\users\\hsyna\\desktop\\library\\libraryapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|c:\\users\\hsyna\\desktop\\library\\libraryapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|c:\\users\\hsyna\\desktop\\library\\libraryapp\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\enums\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|c:\\users\\hsyna\\desktop\\library\\libraryapp\\libraryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABAA92E9-86FA-4CBB-B092-B5A86B5F1246}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\libraryapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ILibrary.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Interfaces\\ILibrary.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Interfaces\\ILibrary.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Interfaces\\ILibrary.cs",
+              "RelativeToolTip": "LibraryApp\\Interfaces\\ILibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:52:21.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:43:56.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\Library.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:42:17.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rent.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\Rent.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Rent.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\Rent.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Rent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:38:51.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\User.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:38:00.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Enums\\Genre.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Enums\\Genre.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Enums\\Genre.cs",
+              "RelativeToolTip": "LibraryApp\\Enums\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:35:07.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:33:47.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LibraryApp",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\LibraryApp.csproj",
+              "RelativeDocumentMoniker": "LibraryApp\\LibraryApp.csproj",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\LibraryApp.csproj",
+              "RelativeToolTip": "LibraryApp\\LibraryApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T13:33:26.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hsyna\\Desktop\\Library\\LibraryApp\\Program.cs",
+              "RelativeToolTip": "LibraryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:33:00.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

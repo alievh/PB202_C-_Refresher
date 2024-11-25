@@ -1,0 +1,56 @@
+1. Kitabxana idarəetmə sistemi aşağıdakı əsas funksionallıqları təmin etməlidir:
+1.1 Kitabların idarə edilməsi:
+- Yeni kitab əlavə etmək.
+- Mövcud kitabları redaktə etmək.
+- Kitabları siyahıda göstərmək və filtrasiya etmək (məsələn, janra, müəllifə və ya mövcudluğa görə).
+
+1.2 İstifadəçi idarəetməsi:
+- Yeni istifadəçi qeydiyyatdan keçirmək.
+- İstifadəçi məlumatlarını redaktə etmək.
+- İstifadəçi siyahısını göstərmək.
+
+1.3 Kitabların icarəyə götürülməsi və qaytarılması:
+- Kitab icarəyə götürən istifadəçini qeyd etmək.
+- Kitabın geri qaytarılma tarixini yoxlamaq.
+- Əgər kitab gec qaytarılıbsa, cərimə hesablanması.
+
+1.4 Proqramın strukturu:
+- OOP prinsiplərinə uyğun olaraq siniflərdən istifadə edin.
+- Layihəni 3 əsas təbəqəyə bölün:
+- Models: Məlumat strukturları (Kitab, İstifadəçi, Icarə).
+- Services: Əsas biznes məntiqi (kitab və istifadəçi idarəetmə funksiyaları).
+- UI/Console: İstifadəçi interfeysi (konsol tətbiqi ilə
+
+1.5 Siniflər və Xüsusiyyətlər:
+- Kitab:
+Id (unikal identifikator)
+Ad (string)
+Müəllif (string)
+Janr (string)
+Il (int)
+Əldədir (bool)
+
+- İstifadəçi:
+Id (unikal identifikator)
+Ad (string)
+Email (string)
+Telefon (string)
+
+- Icarə:
+Id (unikal identifikator)
+KitabId (Kitabın Id-si)
+İstifadəçiId (İcarə götürən istifadəçinin Id-si)
+IcarəTarixi (DateTime)
+QaytarilmaTarixi (DateTime?)
+
+1.6 Funksionallıq üçün tələblər:
+- Kitab əlavə etdikdə və ya redaktə etdikdə məlumatın düzgün daxil edildiyini yoxlayın.
+- Gecikmə hallarında hər gün üçün müəyyən məbləğdə cərimə hesablayın.
+- Kitabın mövcudluğu yoxlanılmadan icarəyə verilməsinə icazə verməyin.
+
+1.7 Interface:
+- Konsol üzərindən menyu yaradın:
+1: Kitabları idarə et (əlavə et, redaktə et, göstər).
+2: İstifadəçiləri idarə et (əlavə et, redaktə et, göstər).
+3: Kitab icarəyə götür/qaytar.
+4: Sistemdən çıxış.
